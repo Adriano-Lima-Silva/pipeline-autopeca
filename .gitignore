@@ -1,0 +1,3 @@
+data/raw/*.csv
+*.db
+__pycache__/
